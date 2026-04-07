@@ -16,8 +16,6 @@ A cloud-based restaurant management system built using Salesforce to manage cust
 
 ## 🛠️ Tech Stack
 - Salesforce (CRM)
-- Apex (if used)
-- Lightning Components (if used)
 
 ## 📌 Use Case
 Designed to help restaurants streamline operations, manage customer interactions, and improve service efficiency.
